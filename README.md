@@ -6,7 +6,7 @@ Part of the Wodi-Styles collection | A visual journey through moments, milestone
 
 WodiMemories is a story-driven photo gallery that captures the essence of my life’s journey — from humble beginnings to meaningful milestones. Built with simplicity, emotion, and elegance, it’s designed to be more than just a collection of images. Every picture tells a story, and every story is a piece of the bigger picture that is me.
 
-This project is a feature of WodiWideWeb, but it lives as its own independent site and GitHub repository for flexibility, scalability, and creative freedom.
+This project is a feature of [WodiWideWeb](https://github.com/Calchiwo/WodiWideWeb), but it lives as its own independent site and GitHub repository for flexibility, scalability, and creative freedom.
 
 
 ---
