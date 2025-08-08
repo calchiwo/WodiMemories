@@ -1,6 +1,6 @@
 ---
 
-WodiMemories
+**WodiMemories**
 
 Part of the Wodi-Styles collection | A visual journey through moments, milestones, and memories.
 
@@ -11,7 +11,7 @@ This project is a feature of WodiWideWeb, but it lives as its own independent si
 
 ---
 
-✨ Features
+**✨ Features**
 
 Clean & Responsive Design – Works seamlessly across devices.
 
@@ -27,7 +27,7 @@ Part of Wodi-Styles – Branded to match the design language of WodiWideWeb and 
 
 ---
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 HTML5 – Structure and content.
 
@@ -39,31 +39,31 @@ JavaScript – Interactivity and smooth user experience.
 
 ---
 
-🚀 Usage
+**🚀 Usage**
 
-WodiMemories is publicly accessible from WodiWideWeb.
+**WodiMemories** is publicly accessible from WodiWideWeb.
 When visitors click the WodiMemories button on WodiWideWeb, they are redirected here to explore the gallery.
 
 
 ---
 
-📌 About Wodi-Styles
+**📌 About Wodi-Styles**
 
-WodiMemories is part of the Wodi-Styles ecosystem, a collection of creative projects including:
+[WodiMemories](https://wodimemories.netlify.app) is part of the Wodi-Styles ecosystem, a collection of creative projects including:
 
-WodiWideWeb – My memoir and life journey site.
+[WodiWideWeb](https://wodiwideweb.netlify.app) – My memoir and life journey site.
 
-WodiC – A voice calculator with AI and scientific tools.
+[WodiC](https://github.com/Calchiwo/WodiC) – A voice calculator with AI and scientific tools.
 
-WodiWebify – An encrypted note-taking web application.
+[WodiWebify](https://github.com/Calchiwo/WodiWebify) – An encrypted note-taking web application.
 
-WodiWaitlist – A waitlist tool for collecting email sign-ups for my upcoming projects.
+[WodiWaitlist](https://wodiwaitlist.netlify.app) – A waitlist tool for collecting email sign-ups for my upcoming projects.
 
 
 
 ---
 
-📷 Vision
+**📷 Vision**
 
 WodiMemories exists to remind me — and anyone who visits — that every moment matters.
 The goal is to create a space where images and emotions live side by side, telling a story no words alone can capture.
