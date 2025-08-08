@@ -1,6 +1,6 @@
 ---
 
-**WodiMemories**
+WodiMemories
 
 Part of the Wodi-Styles collection | A visual journey through moments, milestones, and memories.
 
