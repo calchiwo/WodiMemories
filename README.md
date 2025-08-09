@@ -21,7 +21,7 @@ Timeline Navigation – Explore memories chronologically.
 
 Lightbox View – Click on any photo to see it in full size with details.
 
-Part of Wodi-Styles – Branded to match the design language of WodiWideWeb and other Wodi projects.
+Part of BuiltByWodi® – Branded to match the design language of WodiWideWeb and other Wodi projects.
 
 
 
@@ -42,7 +42,7 @@ JavaScript – Interactivity and smooth user experience.
 **🚀 Usage**
 
 **WodiMemories** is publicly accessible from [WodiWideWeb](https://WodiWideWeb.com/WodiMemories).
-When visitors click the WodiMemories button on [WodiWideWeb](https://WodiWideWeb.com/WodiMemories), they are redirected here to explore the gallery.
+When visitors click the [WodiMemories button](https://WodiWideWeb.com/WodiMemories) on WodiWideWeb, they are redirected here to explore the gallery.
 
 
 ---
