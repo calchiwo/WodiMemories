@@ -57,7 +57,7 @@ When visitors click the [WodiMemories button](https://WodiWideWeb.com/WodiMemori
 
 [WodiWebify](https://github.com/Calchiwo/WodiWebify) – An encrypted note-taking web application.
 
-[WodiWaitlist](https://wodiwaitlist.netlify.app) – A waitlist tool for collecting email sign-ups ahead of my future launches.
+[WodiWaitlist](https://wodiwaitlist.netlify.app) – A waitlist platform for collecting email sign-ups ahead of my future launches.
 
 
 
