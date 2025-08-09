@@ -51,13 +51,13 @@ When visitors click the WodiMemories button on WodiWideWeb, they are redirected 
 
 [WodiMemories](https://wodimemories.netlify.app) is part of the BuiltByWodi® ecosystem, a collection of creative projects including:
 
-[WodiWideWeb](https://wodiwideweb.netlify.app) – My .
+[WodiWideWeb](https://wodiwideweb.netlify.app) – My personal storytelling platform where I document my journey, reflections, lessons, and projects.
 
 [WodiC](https://github.com/Calchiwo/WodiC) – A voice calculator with AI and scientific tools.
 
 [WodiWebify](https://github.com/Calchiwo/WodiWebify) – An encrypted note-taking web application.
 
-[WodiWaitlist](https://wodiwaitlist.netlify.app) – A waitlist tool for collecting email sign-ups for my upcoming projects.
+[WodiWaitlist](https://wodiwaitlist.netlify.app) – A waitlist tool for collecting email sign-ups ahead of my future launches.
 
 
 
@@ -71,7 +71,7 @@ The goal is to create a space where images and emotions live side by side, telli
 
 ---
 
-© 2025 Caleb Chikanka Wodi | BuiltByWodi®
+© 2025 Rocjet Technologies Ltd | BuiltByWodi®
 
 
 ---
