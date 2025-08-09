@@ -47,7 +47,7 @@ When visitors click the [WodiMemories button](https://WodiWideWeb.com/WodiMemori
 
 ---
 
-**📌 About Wodi-Styles**
+**📌 About BuiltByWodi®**
 
 [WodiMemories](https://wodimemories.netlify.app) is part of the BuiltByWodi® ecosystem, a collection of creative projects including:
 
