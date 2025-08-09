@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WodiMemories Gallery</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 30px 10px 10px;
+      background: #0077cc;
+      color: white;
+      font-size: 2em;
+      font-weight: bold;
+      letter-spacing: 2px;
+    }
+    .tagline {
+      font-weight: normal;
+      font-size: 1em;
+      margin-top: 5px;
+      opacity: 0.8;
+    }
+    .gallery {
+      max-width: 900px;
+      margin: 30px auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 15px;
+      padding: 0 10px;
+    }
+    .gallery-item {
+      background: white;
+      border-radius: 6px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      cursor: pointer;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .gallery-item img {
+      width: 100%;
+      display: block;
+      object-fit: cover;
+      height: 150px;
+      transition: transform 0.3s ease;
+    }
+    .gallery-item:hover img {
+      transform: scale(1.05);
+    }
+    .caption {
+      padding: 8px;
+      font-size: 0.9em;
+      color: #555;
+      text-align: center;
+      user-select: none;
+    }
+
+    /* Lightbox styles */
+    #lightbox {
+      position: fixed;
+      top:0; left:0; width:100%; height:100%;
+      background: rgba(0,0,0,0.8);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      cursor: pointer;
+      padding: 20px;
+    }
+    #lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(255,255,255,0.7);
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 400px) {
+      .gallery-item img {
+        height: 120px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  WodiMemories
+  <div class="tagline">Snapshots of my journey</div>
+</header>
+
+<section class="gallery" id="gallery">
+  <!-- Gallery items here -->
+  <div class="gallery-item">
+    <img src="photos/photo1.jpg" alt="Photo 1" />
+    <div class="caption">June 2023 - Family time</div>
+  </div>
+  <div class="gallery-item">
+    <img src="photos/photo2.jpg" alt="Photo 2" />
+    <div class="caption">August 2024 - School event</div>
+  </div>
+  <div class="gallery-item">
+    <img src="photos/photo3.jpg" alt="Photo 3" />
+    <div class="caption">December 2024 - Travel</div>
+  </div>
+  <!-- Add more photos the same way -->
+</section>
+
+<!-- Lightbox container -->
+<div id="lightbox">
+  <img src="" alt="Expanded photo" />
+</div>
+
+<script>
+  // Get elements
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = lightbox.querySelector('img');
+  const gallery = document.getElementById('gallery');
+
+  // When a gallery image is clicked
+  gallery.addEventListener('click', (e) => {
+    if(e.target.tagName === 'IMG') {
+      lightboxImg.src = e.target.src;
+      lightbox.style.display = 'flex';
+    }
+  });
+
+  // Clicking the lightbox closes it
+  lightbox.addEventListener('click', () => {
+    lightbox.style.display = 'none';
+    lightboxImg.src = '';
+  });
+</script>
+
+</body>
+</html>
