@@ -2,7 +2,7 @@
 
 WodiMemories
 
-Part of the Wodi-Styles collection | A visual journey through moments, milestones, and memories.
+Part of the BuiltByWodi® Projects | A visual journey through moments, milestones, and memories.
 
 WodiMemories is a story-driven photo gallery that captures the essence of my life’s journey — from humble beginnings to meaningful milestones. Built with simplicity, emotion, and elegance, it’s designed to be more than just a collection of images. Every picture tells a story, and every story is a piece of the bigger picture that is me.
 
@@ -49,9 +49,9 @@ When visitors click the WodiMemories button on WodiWideWeb, they are redirected 
 
 **📌 About Wodi-Styles**
 
-[WodiMemories](https://wodimemories.netlify.app) is part of the Wodi-Styles ecosystem, a collection of creative projects including:
+[WodiMemories](https://wodimemories.netlify.app) is part of the BuiltByWodi® ecosystem, a collection of creative projects including:
 
-[WodiWideWeb](https://wodiwideweb.netlify.app) – My memoir and life journey site.
+[WodiWideWeb](https://wodiwideweb.netlify.app) – My .
 
 [WodiC](https://github.com/Calchiwo/WodiC) – A voice calculator with AI and scientific tools.
 
