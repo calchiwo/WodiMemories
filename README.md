@@ -53,11 +53,13 @@ When visitors click the [WodiMemories button](https://wodimemories.netlify.app) 
 
 [WodiWideWeb](https://wodiwideweb.netlify.app) – My personal storytelling platform where I document my journey, reflections, lessons, and projects.
 
-[WodiC](https://github.com/Calchiwo/WodiC) – A voice calculator with AI and scientific tools.
+[WodiC](https://github.com/Calchiwo/WodiC) – A voice calculator with AI and scientific functions.
 
-[WodiWebify](https://github.com/Calchiwo/WodiWebify) – An encrypted note-taking web application.
+[WodiNotes](https://github.com/Calchiwo/WodiWebify) (formerly WodiWebify) – An encrypted note-taking web application.
 
 [WodiWaitlist](https://wodiwaitlist.netlify.app) – A waitlist platform for collecting email sign-ups ahead of my future launches.
+
+[WodiGames](https://wodiwaitlist.netlify.app) – A BuiltByWodi® gaming space built by me, for everyone 
 
 
 
