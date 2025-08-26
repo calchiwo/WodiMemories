@@ -57,7 +57,7 @@ When visitors click the [WodiMemories button](https://wodimemories.netlify.app) 
 
 [WodiNotes](https://github.com/Calchiwo/WodiWebify) (formerly WodiWebify) – An encrypted note-taking web application.
 
-[WodiWaitlist](https://wodiwaitlist.netlify.app) – A waitlist platform for collecting email sign-ups ahead of my future launches.
+[WodiWaitlist](https://wodiwaitlist.netlify.app) – A waitlist platform for collecting email sign-ups ahead of my future projects and launches.
 
 [WodiGames](https://wodiwaitlist.netlify.app) – A BuiltByWodi® gaming space built by me, for everyone 
 
