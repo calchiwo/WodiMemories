@@ -41,8 +41,8 @@ JavaScript – Interactivity and smooth user experience.
 
 **🚀 Usage**
 
-**WodiMemories** is publicly accessible from [WodiWideWeb](https://WodiWideWeb.com/WodiMemories).
-When visitors click the [WodiMemories button](https://WodiWideWeb.com/WodiMemories) on WodiWideWeb, they are redirected here to explore the gallery.
+**WodiMemories** is publicly accessible from [WodiWideWeb](https://wodimemories.netlify.app).
+When visitors click the [WodiMemories button](https://wodimemories.netlify.app) on WodiWideWeb, they are redirected here to explore the gallery.
 
 
 ---
