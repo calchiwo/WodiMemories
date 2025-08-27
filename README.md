@@ -2,7 +2,7 @@
 
 WodiMemories
 
-**Part of the BuiltByWodi® Projects Family** | A Visual Journey of Caleb "Calchiwo" Wodi through moments, milestones, and memories.
+**Part of the BuiltByWodi® Projects | A Visual Journey of Caleb "Calchiwo" Wodi through moments, milestones, and memories.**
 
 **WodiMemories** is a story-driven photo gallery that captures the essence of my life’s journey — from humble beginnings to meaningful milestones. Built with simplicity, emotion, and elegance, it’s designed to be more than just a collection of images. Every picture tells a story, and every story is a piece of the bigger picture that is me.
 
