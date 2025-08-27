@@ -31,7 +31,7 @@ Part of BuiltByWodi® – Branded to match the design language of WodiWideWeb an
 
 HTML5 – Structure and content.
 
-CSS3 – Styling with Wodi-Styles visual identity.
+CSS3 – Styling with visual identity.
 
 JavaScript – Interactivity and smooth user experience.
 
@@ -55,7 +55,7 @@ When visitors click the [WodiMemories button](https://wodimemories.netlify.app) 
 
 [WodiC](https://github.com/Calchiwo/WodiC) – A voice calculator with AI and scientific functions.
 
-[WodiNotes](https://github.com/Calchiwo/WodiWebify) (formerly WodiWebify) – An encrypted note-taking web application.
+[WodiNotes](https://github.com/Calchiwo/WodiNotes) (formerly WodiWebify) – An encrypted note-taking web application.
 
 [WodiWaitlist](https://wodiwaitlist.netlify.app) – A waitlist platform for collecting email sign-ups ahead of my future projects and launches.
 
