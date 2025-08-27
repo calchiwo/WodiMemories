@@ -73,7 +73,7 @@ The goal is to create a space where images and emotions live side by side, telli
 
 ---
 
-© 2025 Rocjet Technologies Ltd | BuiltByWodi®
+© 2025 BuiltByWodi® Projects. Created by Caleb "Calchiwo" Wodi
 
 
 ---
